@@ -1,0 +1,41 @@
+{% extends 'base.html.twig' %}
+{% block body_id 'login' %}
+{% block javascripts %}
+{{ parent() }}
+{{ encore_entry_script_tags('login') }}
+{% endblock %}
+{% block main %}
+{% if error %}
+<div class="alert alert-danger">
+{{ error.messageKey|trans(error.messageData, 'security') }}
+</div>
+{% endif %}
+    <div class="row">        
+	<div class="col-12 col-md-4"></div>
+        <div class="col-12 col-md-6">
+            <div class="card shadow p-3 p-md-5">
+                <form action="{{ path('security_login') }}" method="post">
+                    <fieldset>
+                        <h3>{{ 'title.login'|trans }}</h3>
+                        <div class="form-group">
+                            <label for="username">{{ 'label.username'|trans }}</label>
+                            <input type="text" id="username" name="_username" value="admin" placeholder="admin" class="form-control"/>
+                        </div>
+                        <div class="form-group">
+                            <label for="password">{{ 'label.password'|trans }}</label>
+                            <input type="password" id="password" name="_password" class="form-control" />
+                        </div>
+                        <input type="hidden" name="_target_path" value="{{ app.request.get('redirect_to') }}"/>
+                        <input type="hidden" name="_csrf_token" value="{{ csrf_token('authenticate') }}"/>
+                        <button type="submit" class="btn btn-primary">
+                            <i class="fa fa-sign-in" aria-hidden="true"></i> {{ 'action.sign_in'|trans }}
+                        </button>
+                    </fieldset>
+                </form>
+            </div>
+        </div>
+        </div>
+{% endblock %}
+
+{% block sidebar %}
+{% endblock %}

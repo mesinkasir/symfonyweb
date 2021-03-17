@@ -1,0 +1,18 @@
+{% extends 'base.html.twig' %}
+{% block body_id 'homepage' %}
+{#
+    the homepage is a special page which displays neither a header nor a footer.
+    this is done with the 'trick' of defining empty Twig blocks without any content
+#}
+{% block header %}{% endblock %}
+{% block footer %}{% endblock %}
+{% block body %}
+{{ include('default/head.html.twig') }}
+{{ include('default/content.html.twig') }}
+{{ include('default/intro.html.twig') }}
+{{ include('default/bootstrap.html.twig') }}
+{{ include('default/section1.html.twig') }}
+{{ include('default/section2.html.twig') }}
+{{ include('default/log.html.twig') }}
+{{ include('default/git.html.twig') }}
+{% endblock %}
