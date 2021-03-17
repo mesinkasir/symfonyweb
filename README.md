@@ -1,60 +1,46 @@
-Symfony Demo Application
-========================
+# SYMFONY CMS NEW BLOG GENERATION
 
-The "Symfony Demo Application" is a reference application created to show how
-to develop applications following the [Symfony Best Practices][1].
+Symfony web apps for develope new modern website using symfony framework
 
-Requirements
-------------
+login page area
+home page
+blog page
+post list
+post page create article content
+support markdown and html lang
+edit delete update create new post
 
-  * PHP 7.2.9 or higher;
-  * PDO-SQLite PHP extension enabled;
-  * and the [usual Symfony application requirements][2].
+Documentation
+[https://www.hockeycomputindo.com/2021/03/new-symfony-cms-blog-open-source-code.html](https://www.hockeycomputindo.com/2021/03/new-symfony-cms-blog-open-source-code.html)
 
-Installation
-------------
+how to install
++ download composer
++ donwload source code
++ composer install
++ symfony serve
++ symfony build (for build and upload on host)
 
-[Download Symfony][4] to install the `symfony` binary on your computer and run
-this command:
+display
 
-```bash
-$ symfony new --demo my_project
-```
+![symfony website](https://a.fsdn.com/con/app/proj/symfonyweb/screenshots/Screenshot_2021-03-09%20Symfony%20Bootstrap%20By%20mesinkasironline%20web%20app%281%29.png/max/max/1)
 
-Alternatively, you can use Composer:
+home page
 
-```bash
-$ composer create-project symfony/symfony-demo my_project
-```
+![symfony website](https://a.fsdn.com/con/app/proj/symfonyweb/screenshots/Screenshot_2021-03-09%20HTML%20on%20Symfony%20Blog%20CMS%20is%20allowed.png/max/max/1)
 
-Usage
------
+article page
 
-There's no need to configure anything to run the application. If you have
-[installed Symfony][4] binary, run this command:
+![symfony website](https://a.fsdn.com/con/app/proj/symfonyweb/screenshots/Screenshot_2021-03-09%20Symfony%20Bootstrap%20By%20mesinkasironline%20web%20app%282%29.png/max/max/1)
 
-```bash
-$ cd my_project/
-$ symfony serve
-```
+blog list
 
-Then access the application in your browser at the given URL (<https://localhost:8000> by default).
+![symfony website](https://a.fsdn.com/con/app/proj/symfonyweb/screenshots/Screenshot_2021-03-09%20Symfony%20Bootstrap%20By%20mesinkasironline%20web%20app%284%29.png/max/max/1)
 
-If you don't have the Symfony binary installed, run `php -S localhost:8000 -t public/`
-to use the built-in PHP web server or [configure a web server][3] like Nginx or
-Apache to run the application.
+admin page
 
-Tests
------
+![symfony website](https://a.fsdn.com/con/app/proj/symfonyweb/screenshots/Screenshot_2021-03-09%20Symfony%20Bootstrap%20By%20mesinkasironline%20web%20app%285%29.png/max/max/1)
 
-Execute this command to run tests:
+blog list
 
-```bash
-$ cd my_project/
-$ ./bin/phpunit
-```
+![symfony website](https://a.fsdn.com/con/app/proj/symfonyweb/screenshots/Screenshot_2021-03-09%20Symfony%20Bootstrap%20By%20mesinkasironline%20web%20app%283%29.png/max/max/1)
 
-[1]: https://symfony.com/doc/current/best_practices.html
-[2]: https://symfony.com/doc/current/reference/requirements.html
-[3]: https://symfony.com/doc/current/cookbook/configuration/web_server_configuration.html
-[4]: https://symfony.com/download
