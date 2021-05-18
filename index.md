@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# SYMFONY CMS NEW BLOG GENERATION
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/symfonyweb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Symfony web apps for develope new modern website using symfony framework
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+login page area
+home page
+blog page
+post list
+post page create article content
+support markdown and html lang
+edit delete update create new post
 
-### Markdown
+Documentation
+[https://www.hockeycomputindo.com/2021/03/new-symfony-cms-blog-open-source-code.html](https://www.hockeycomputindo.com/2021/03/new-symfony-cms-blog-open-source-code.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+how to install
++ download composer
++ donwload source code
++ composer install
++ symfony serve
++ symfony build (for build and upload on host)
 
-```markdown
-Syntax highlighted code block
+display
 
-# Header 1
-## Header 2
-### Header 3
+![symfony website](https://a.fsdn.com/con/app/proj/symfonyweb/screenshots/Screenshot_2021-03-09%20Symfony%20Bootstrap%20By%20mesinkasironline%20web%20app%281%29.png/max/max/1)
 
-- Bulleted
-- List
+home page
 
-1. Numbered
-2. List
+![symfony website](https://a.fsdn.com/con/app/proj/symfonyweb/screenshots/Screenshot_2021-03-09%20HTML%20on%20Symfony%20Blog%20CMS%20is%20allowed.png/max/max/1)
 
-**Bold** and _Italic_ and `Code` text
+article page
 
-[Link](url) and ![Image](src)
-```
+![symfony website](https://a.fsdn.com/con/app/proj/symfonyweb/screenshots/Screenshot_2021-03-09%20Symfony%20Bootstrap%20By%20mesinkasironline%20web%20app%282%29.png/max/max/1)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+blog list
 
-### Jekyll Themes
+![symfony website](https://a.fsdn.com/con/app/proj/symfonyweb/screenshots/Screenshot_2021-03-09%20Symfony%20Bootstrap%20By%20mesinkasironline%20web%20app%284%29.png/max/max/1)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/symfonyweb/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+admin page
 
-### Support or Contact
+![symfony website](https://a.fsdn.com/con/app/proj/symfonyweb/screenshots/Screenshot_2021-03-09%20Symfony%20Bootstrap%20By%20mesinkasironline%20web%20app%285%29.png/max/max/1)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+blog list
+
+![symfony website](https://a.fsdn.com/con/app/proj/symfonyweb/screenshots/Screenshot_2021-03-09%20Symfony%20Bootstrap%20By%20mesinkasironline%20web%20app%283%29.png/max/max/1)
+
