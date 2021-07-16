@@ -22,25 +22,25 @@ how to install
 
 display
 
-![symfony website](https://a.fsdn.com/con/app/proj/symfonyweb/screenshots/Screenshot_2021-03-09%20Symfony%20Bootstrap%20By%20mesinkasironline%20web%20app%281%29.png/max/max/1)
+![symfony website](https://1.bp.blogspot.com/-D5Wj4s9jdBM/YFDSiReAUWI/AAAAAAAAKBc/64NCV0h4qowxGVrkx35IIYT4l1koOQjZgCLcBGAsYHQ/s1948/Screenshot_2021-03-09%2BSymfony%2BBootstrap%2BBy%2Bmesinkasironline%2Bweb%2Bapp%25281%2529.png)
 
 home page
 
-![symfony website](https://a.fsdn.com/con/app/proj/symfonyweb/screenshots/Screenshot_2021-03-09%20HTML%20on%20Symfony%20Blog%20CMS%20is%20allowed.png/max/max/1)
+![symfony website](https://1.bp.blogspot.com/-KJVT3my4e8w/YFDSizjEQsI/AAAAAAAAKB4/Vvq4hDm0PzYivLdRaPbhLQywFvRIB6D_gCLcBGAsYHQ/s16000/Screenshot_2021-03-09%2BHTML%2Bon%2BSymfony%2BBlog%2BCMS%2Bis%2Ballowed.png)
 
 article page
 
-![symfony website](https://a.fsdn.com/con/app/proj/symfonyweb/screenshots/Screenshot_2021-03-09%20Symfony%20Bootstrap%20By%20mesinkasironline%20web%20app%282%29.png/max/max/1)
+![symfony website](https://1.bp.blogspot.com/-jEHuxlZ_E9Y/YFDSirOzXkI/AAAAAAAAKBg/DVx3qzWAF2EVNn7Ogy_B0lrJKOpNGFtzACLcBGAsYHQ/s16000/Screenshot_2021-03-09%2BSymfony%2BBootstrap%2BBy%2Bmesinkasironline%2Bweb%2Bapp%25282%2529.png)
 
 blog list
 
-![symfony website](https://a.fsdn.com/con/app/proj/symfonyweb/screenshots/Screenshot_2021-03-09%20Symfony%20Bootstrap%20By%20mesinkasironline%20web%20app%284%29.png/max/max/1)
+![symfony website](https://1.bp.blogspot.com/-j-SV4wLdv0M/YFDSkVWPoPI/AAAAAAAAKB0/bsU8T4idHb0FV2sJz1ekruKwit4nfGvXQCLcBGAsYHQ/s16000/Screenshot_2021-03-09%2BSymfony%2BBootstrap%2BBy%2Bmesinkasironline%2Bweb%2Bapp%25287%2529.png)
 
 admin page
 
-![symfony website](https://a.fsdn.com/con/app/proj/symfonyweb/screenshots/Screenshot_2021-03-09%20Symfony%20Bootstrap%20By%20mesinkasironline%20web%20app%285%29.png/max/max/1)
+![symfony website](https://1.bp.blogspot.com/-KZG046aRsA4/YFDSjBFL_uI/AAAAAAAAKBo/yRxJQ5KuTl8r35wTd5WdStJt9zIHK8HHwCLcBGAsYHQ/s16000/Screenshot_2021-03-09%2BSymfony%2BBootstrap%2BBy%2Bmesinkasironline%2Bweb%2Bapp%25284%2529.png)
 
-blog list
+blog article
 
-![symfony website](https://a.fsdn.com/con/app/proj/symfonyweb/screenshots/Screenshot_2021-03-09%20Symfony%20Bootstrap%20By%20mesinkasironline%20web%20app%283%29.png/max/max/1)
+![symfony website](https://1.bp.blogspot.com/-1tK1awLCiSk/YFDSjmtSbqI/AAAAAAAAKBs/4n5_uyYlBV8pfMEGR-xwX9ONoPD5fIurACLcBGAsYHQ/s16000/Screenshot_2021-03-09%2BSymfony%2BBootstrap%2BBy%2Bmesinkasironline%2Bweb%2Bapp%25285%2529.png)
 
